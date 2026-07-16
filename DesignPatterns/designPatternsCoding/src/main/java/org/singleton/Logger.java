@@ -1,4 +1,4 @@
-package org.example;
+package org.singleton;
 
 public class Logger {
     private Logger() {
