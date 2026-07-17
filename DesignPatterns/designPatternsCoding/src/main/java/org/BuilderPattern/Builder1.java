@@ -1,6 +1,6 @@
 package org.BuilderPattern;
 
-//public class Builder {
+public class Builder1 {
 //    private String name;
 //    private int age;
 //    private String surname;
@@ -59,4 +59,4 @@ package org.BuilderPattern;
 //    Student build(){
 //        return new Student(this);
 //    }
-//}
+}
